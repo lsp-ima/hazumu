@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lsp-ima.github.io/hazumu/sitemap.xml
